@@ -1,11 +1,11 @@
 ﻿using System;
-using BEPUphysics.Constraints.SolverGroups;
-using BEPUutilities.DataStructures;
-using BEPUphysics.Entities;
-using BEPUphysics.CollisionTests;
-using BEPUphysics.NarrowPhaseSystems.Pairs;
 using BEPUphysics.CollisionRuleManagement;
+using BEPUphysics.CollisionTests;
+using BEPUphysics.Constraints.SolverGroups;
+using BEPUphysics.Entities;
 using BEPUphysics.Materials;
+using BEPUphysics.NarrowPhaseSystems.Pairs;
+using BEPUutilities.DataStructures;
 
 namespace BEPUphysics.Constraints.Collision
 {

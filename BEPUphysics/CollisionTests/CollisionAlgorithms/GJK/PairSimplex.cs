@@ -1,7 +1,6 @@
-﻿using BEPUphysics.CollisionShapes.ConvexShapes;
- 
+﻿using System.Diagnostics;
+using BEPUphysics.CollisionShapes.ConvexShapes;
 using BEPUutilities;
-using System.Diagnostics;
 
 namespace BEPUphysics.CollisionTests.CollisionAlgorithms.GJK
 {

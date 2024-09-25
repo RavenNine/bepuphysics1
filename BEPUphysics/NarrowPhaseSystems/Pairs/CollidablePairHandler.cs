@@ -1,12 +1,12 @@
-﻿using BEPUphysics.BroadPhaseEntries;
+﻿using System;
+using BEPUphysics.BroadPhaseEntries;
 using BEPUphysics.BroadPhaseSystems;
 using BEPUphysics.CollisionRuleManagement;
-using BEPUphysics.Entities;
-using BEPUphysics.Constraints.Collision;
-using BEPUphysics.CollisionTests.Manifolds;
 using BEPUphysics.CollisionTests;
-using System;
+using BEPUphysics.CollisionTests.Manifolds;
+using BEPUphysics.Constraints.Collision;
 using BEPUphysics.Constraints.SolverGroups;
+using BEPUphysics.Entities;
 using BEPUphysics.Materials;
 
 namespace BEPUphysics.NarrowPhaseSystems.Pairs

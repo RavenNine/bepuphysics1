@@ -1,12 +1,12 @@
 ﻿using System;
 using BEPUphysics.BroadPhaseEntries.Events;
 using BEPUphysics.CollisionShapes;
-using BEPUphysics.DataStructures;
-using BEPUutilities;
-using BEPUutilities.ResourceManagement;
 using BEPUphysics.CollisionShapes.ConvexShapes;
 using BEPUphysics.CollisionTests.CollisionAlgorithms;
+using BEPUphysics.DataStructures;
 using BEPUphysics.OtherSpaceStages;
+using BEPUutilities;
+using BEPUutilities.ResourceManagement;
 
 namespace BEPUphysics.BroadPhaseEntries
 {

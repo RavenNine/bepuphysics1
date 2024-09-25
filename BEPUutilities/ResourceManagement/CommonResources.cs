@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
-using BEPUutilities.DataStructures;
 using BEPUutilities;
+using BEPUutilities.DataStructures;
 
 namespace BEPUutilities.ResourceManagement
 {

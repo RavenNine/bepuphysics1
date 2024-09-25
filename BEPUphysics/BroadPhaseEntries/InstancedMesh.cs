@@ -1,10 +1,10 @@
 ﻿using System;
 using BEPUphysics.BroadPhaseEntries.Events;
 using BEPUphysics.CollisionShapes;
-using BEPUutilities;
-using BEPUutilities.ResourceManagement;
 using BEPUphysics.CollisionTests.CollisionAlgorithms;
 using BEPUphysics.OtherSpaceStages;
+using BEPUutilities;
+using BEPUutilities.ResourceManagement;
 using RigidTransform = BEPUutilities.RigidTransform;
 
 namespace BEPUphysics.BroadPhaseEntries

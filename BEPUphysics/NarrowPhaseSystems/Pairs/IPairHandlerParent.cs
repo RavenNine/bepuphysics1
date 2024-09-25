@@ -1,5 +1,5 @@
-﻿using BEPUphysics.Constraints;
-using BEPUphysics.CollisionTests;
+﻿using BEPUphysics.CollisionTests;
+using BEPUphysics.Constraints;
 
 namespace BEPUphysics.NarrowPhaseSystems.Pairs
 {

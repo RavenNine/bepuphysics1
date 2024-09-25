@@ -1,5 +1,5 @@
-﻿using BEPUphysics.NarrowPhaseSystems.Pairs;
-using System;
+﻿using System;
+using BEPUphysics.NarrowPhaseSystems.Pairs;
 using BEPUutilities.ResourceManagement;
 
 namespace BEPUphysics.NarrowPhaseSystems

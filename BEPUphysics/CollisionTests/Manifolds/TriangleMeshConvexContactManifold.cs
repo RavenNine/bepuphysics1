@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using BEPUphysics.BroadPhaseEntries.MobileCollidables;
+using BEPUphysics.CollisionShapes.ConvexShapes;
 using BEPUphysics.CollisionTests.CollisionAlgorithms;
 using BEPUphysics.Entities.Prefabs;
-using BEPUutilities.ResourceManagement;
 using BEPUphysics.Settings;
-using BEPUphysics.CollisionShapes.ConvexShapes;
 using BEPUutilities;
 using BEPUutilities.DataStructures;
+using BEPUutilities.ResourceManagement;
 
 namespace BEPUphysics.CollisionTests.Manifolds
 {

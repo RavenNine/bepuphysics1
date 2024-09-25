@@ -1,9 +1,9 @@
-﻿using BEPUphysics.BroadPhaseEntries;
+﻿using System;
+using BEPUphysics.BroadPhaseEntries;
 using BEPUphysics.BroadPhaseSystems;
 using BEPUphysics.NarrowPhaseSystems.Pairs;
 using BEPUphysics.OtherSpaceStages;
 using BEPUutilities;
-using System;
 using BEPUutilities.DataStructures;
 
 namespace BEPUphysics.BroadPhaseEntries.Events

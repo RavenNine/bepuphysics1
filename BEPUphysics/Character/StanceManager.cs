@@ -1,11 +1,11 @@
 ﻿using System;
 using BEPUphysics.BroadPhaseEntries.MobileCollidables;
 using BEPUphysics.CollisionShapes.ConvexShapes;
+using BEPUphysics.CollisionTests;
 using BEPUphysics.Entities.Prefabs;
+using BEPUphysics.Settings;
 using BEPUutilities;
 using BEPUutilities.DataStructures;
-using BEPUphysics.CollisionTests;
-using BEPUphysics.Settings;
 using BEPUutilities.ResourceManagement;
 
 namespace BEPUphysics.Character

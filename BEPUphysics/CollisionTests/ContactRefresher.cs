@@ -1,6 +1,5 @@
-﻿using BEPUutilities;
-using BEPUphysics.Settings;
- 
+﻿using BEPUphysics.Settings;
+using BEPUutilities;
 using BEPUutilities.DataStructures;
 
 namespace BEPUphysics.CollisionTests

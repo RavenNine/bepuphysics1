@@ -1,10 +1,9 @@
 ﻿using System;
-using BEPUphysics.Entities;
-using BEPUphysics.UpdateableSystems;
-
-using BEPUutilities;
-using BEPUphysics.Materials;
 using BEPUphysics.BroadPhaseEntries;
+using BEPUphysics.Entities;
+using BEPUphysics.Materials;
+using BEPUphysics.UpdateableSystems;
+using BEPUutilities;
 
 namespace BEPUphysics.Vehicle
 {

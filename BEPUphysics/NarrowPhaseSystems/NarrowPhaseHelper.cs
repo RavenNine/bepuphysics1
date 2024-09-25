@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using BEPUphysics.BroadPhaseEntries;
-using BEPUphysics.BroadPhaseSystems;
 using BEPUphysics.BroadPhaseEntries.MobileCollidables;
-using BEPUphysics.NarrowPhaseSystems.Pairs;
+using BEPUphysics.BroadPhaseSystems;
 using BEPUphysics.CollisionRuleManagement;
 using BEPUphysics.CollisionShapes.ConvexShapes;
+using BEPUphysics.NarrowPhaseSystems.Pairs;
 using BEPUutilities.DataStructures;
 
 namespace BEPUphysics.NarrowPhaseSystems

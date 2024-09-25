@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using BEPUphysics.BroadPhaseEntries;
+using BEPUutilities;
 using BEPUutilities.DataStructures;
 using BEPUutilities.ResourceManagement;
-using BEPUutilities;
 using BEPUutilities.Threading;
 
 namespace BEPUphysics.BroadPhaseSystems.Hierarchies

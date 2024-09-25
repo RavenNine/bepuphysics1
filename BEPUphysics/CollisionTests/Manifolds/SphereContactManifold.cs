@@ -1,8 +1,8 @@
 ﻿using System;
 using BEPUphysics.BroadPhaseEntries;
 using BEPUphysics.BroadPhaseEntries.MobileCollidables;
-using BEPUphysics.CollisionTests.CollisionAlgorithms;
 using BEPUphysics.CollisionShapes.ConvexShapes;
+using BEPUphysics.CollisionTests.CollisionAlgorithms;
 using BEPUutilities.DataStructures;
 
 namespace BEPUphysics.CollisionTests.Manifolds

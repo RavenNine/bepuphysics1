@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Runtime.InteropServices;
-using BEPUutilities.DataStructures;
-using BEPUutilities;
-
 using BEPUphysics.CollisionShapes.ConvexShapes;
+using BEPUutilities;
+using BEPUutilities.DataStructures;
 
 namespace BEPUphysics.CollisionTests.CollisionAlgorithms
 {

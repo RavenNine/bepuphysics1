@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
-using BEPUutilities;
 using BEPUphysics.BroadPhaseEntries;
+using BEPUutilities;
  
 
 namespace BEPUphysics.BroadPhaseSystems

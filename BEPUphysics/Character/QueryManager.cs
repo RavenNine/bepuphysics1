@@ -1,13 +1,13 @@
 ﻿using System;
 using BEPUphysics.BroadPhaseEntries;
 using BEPUphysics.BroadPhaseEntries.MobileCollidables;
+using BEPUphysics.CollisionRuleManagement;
 using BEPUphysics.Entities;
+using BEPUphysics.NarrowPhaseSystems;
+using BEPUphysics.NarrowPhaseSystems.Pairs;
+using BEPUphysics.Settings;
 using BEPUutilities;
 using BEPUutilities.DataStructures;
-using BEPUphysics.NarrowPhaseSystems;
-using BEPUphysics.CollisionRuleManagement;
-using BEPUphysics.Settings;
-using BEPUphysics.NarrowPhaseSystems.Pairs;
 
 namespace BEPUphysics.Character
 {

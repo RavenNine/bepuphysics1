@@ -1,19 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
 using BEPUphysics.BroadPhaseEntries;
+using BEPUphysics.BroadPhaseEntries.MobileCollidables;
 using BEPUphysics.BroadPhaseSystems;
 using BEPUphysics.BroadPhaseSystems.Hierarchies;
-using BEPUphysics.BroadPhaseEntries.MobileCollidables;
 using BEPUphysics.CollisionShapes.ConvexShapes;
 using BEPUphysics.Constraints;
 using BEPUphysics.DeactivationManagement;
 using BEPUphysics.Entities;
 using BEPUphysics.EntityStateManagement;
+using BEPUphysics.NarrowPhaseSystems;
 using BEPUphysics.OtherSpaceStages;
 using BEPUphysics.PositionUpdating;
-using BEPUutilities;
-using BEPUphysics.NarrowPhaseSystems;
 using BEPUphysics.UpdateableSystems;
+using BEPUutilities;
 using BEPUutilities.DataStructures;
 using BEPUutilities.Threading;
 

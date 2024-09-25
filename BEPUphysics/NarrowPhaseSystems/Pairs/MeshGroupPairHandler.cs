@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using BEPUphysics.BroadPhaseEntries;
 using BEPUphysics.BroadPhaseEntries.MobileCollidables;
-using BEPUphysics.Constraints;
-using BEPUphysics.Constraints.Collision;
 using BEPUphysics.CollisionRuleManagement;
 using BEPUphysics.CollisionTests;
+using BEPUphysics.Constraints;
+using BEPUphysics.Constraints.Collision;
 using BEPUphysics.Materials;
 using BEPUutilities.DataStructures;
 

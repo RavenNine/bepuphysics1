@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Diagnostics;
+using BEPUphysics.BroadPhaseEntries;
+using BEPUphysics.CollisionRuleManagement;
 using BEPUphysics.CollisionShapes.ConvexShapes;
 using BEPUphysics.CollisionTests;
 using BEPUphysics.Entities;
+using BEPUphysics.Settings;
 using BEPUutilities;
 using BEPUutilities.DataStructures;
-using BEPUphysics.BroadPhaseEntries;
-using BEPUphysics.CollisionRuleManagement;
-using BEPUphysics.Settings;
 
 namespace BEPUphysics.Character
 {

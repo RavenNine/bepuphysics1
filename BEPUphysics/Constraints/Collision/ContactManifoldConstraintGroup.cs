@@ -1,6 +1,6 @@
-﻿using BEPUphysics.Constraints.SolverGroups;
+﻿using System;
+using BEPUphysics.Constraints.SolverGroups;
 using BEPUphysics.Entities;
-using System;
 using BEPUutilities.DataStructures;
 
 namespace BEPUphysics.Constraints.Collision

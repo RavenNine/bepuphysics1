@@ -1,9 +1,8 @@
 ﻿using System;
 using BEPUphysics.BroadPhaseEntries;
+using BEPUphysics.CollisionRuleManagement;
 using BEPUphysics.Entities;
 using BEPUphysics.Entities.Prefabs;
-
-using BEPUphysics.CollisionRuleManagement;
 using BEPUphysics.Materials;
 using BEPUutilities;
 

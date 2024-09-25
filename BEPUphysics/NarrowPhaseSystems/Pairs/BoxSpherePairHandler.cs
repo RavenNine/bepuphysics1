@@ -1,16 +1,15 @@
 ﻿using System;
 using BEPUphysics.BroadPhaseEntries;
-using BEPUphysics.BroadPhaseSystems;
 using BEPUphysics.BroadPhaseEntries.MobileCollidables;
+using BEPUphysics.BroadPhaseSystems;
+using BEPUphysics.CollisionShapes.ConvexShapes;
 using BEPUphysics.CollisionTests;
+using BEPUphysics.CollisionTests.CollisionAlgorithms;
 using BEPUphysics.CollisionTests.CollisionAlgorithms.GJK;
+using BEPUphysics.CollisionTests.Manifolds;
 using BEPUphysics.Constraints.Collision;
 using BEPUphysics.PositionUpdating;
 using BEPUphysics.Settings;
-
-using BEPUphysics.CollisionTests.CollisionAlgorithms;
-using BEPUphysics.CollisionShapes.ConvexShapes;
-using BEPUphysics.CollisionTests.Manifolds;
 using BEPUutilities;
 
 namespace BEPUphysics.NarrowPhaseSystems.Pairs

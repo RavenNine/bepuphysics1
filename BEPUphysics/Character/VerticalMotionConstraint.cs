@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Diagnostics;
+using BEPUphysics.BroadPhaseEntries.MobileCollidables;
 using BEPUphysics.Constraints;
 using BEPUphysics.Entities;
+using BEPUphysics.Settings;
 using BEPUutilities;
 using BEPUutilities.DataStructures;
-using BEPUphysics.BroadPhaseEntries.MobileCollidables;
-using BEPUphysics.Settings;
 
 namespace BEPUphysics.Character
 {

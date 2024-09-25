@@ -1,12 +1,11 @@
-﻿using BEPUphysics.BroadPhaseEntries;
+﻿using System;
+using BEPUphysics.BroadPhaseEntries;
 using BEPUphysics.BroadPhaseEntries.MobileCollidables;
-using BEPUphysics.Entities;
-using BEPUphysics.NarrowPhaseSystems.Pairs;
-
 using BEPUphysics.CollisionRuleManagement;
-using BEPUutilities;
+using BEPUphysics.Entities;
 using BEPUphysics.Materials;
-using System;
+using BEPUphysics.NarrowPhaseSystems.Pairs;
+using BEPUutilities;
 
 namespace BEPUphysics.Vehicle
 {

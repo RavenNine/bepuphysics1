@@ -1,9 +1,9 @@
 ﻿using System;
 using BEPUphysics.BroadPhaseEntries.Events;
-using BEPUutilities;
 using BEPUphysics.CollisionShapes;
 using BEPUphysics.CollisionTests.CollisionAlgorithms;
 using BEPUphysics.OtherSpaceStages;
+using BEPUutilities;
 using BEPUutilities.DataStructures;
 using BEPUutilities.ResourceManagement;
 

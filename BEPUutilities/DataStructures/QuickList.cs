@@ -1,7 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using BEPUutilities.ResourceManagement;
-using System.Collections.Generic;
 #if FORCEINLINE
 using System.Runtime.CompilerServices;
 #endif

@@ -1,11 +1,10 @@
-﻿using BEPUphysics.BroadPhaseEntries.Events;
+﻿using System;
+using BEPUphysics.BroadPhaseEntries.Events;
 using BEPUphysics.CollisionShapes;
 using BEPUphysics.Entities;
-using BEPUutilities;
- 
-using BEPUphysics.Settings;
-using System;
 using BEPUphysics.PositionUpdating;
+using BEPUphysics.Settings;
+using BEPUutilities;
 
 namespace BEPUphysics.BroadPhaseEntries.MobileCollidables
 {

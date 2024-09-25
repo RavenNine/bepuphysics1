@@ -1,8 +1,8 @@
 ﻿using System;
-using BEPUphysics.DataStructures;
-using BEPUutilities;
 using System.Collections.Generic;
 using BEPUphysics.BroadPhaseEntries;
+using BEPUphysics.DataStructures;
+using BEPUutilities;
 
 namespace BEPUphysics.CollisionShapes
 {

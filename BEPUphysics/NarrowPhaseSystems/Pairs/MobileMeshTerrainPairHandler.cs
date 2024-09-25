@@ -1,9 +1,9 @@
 ﻿using System;
 using BEPUphysics.BroadPhaseEntries;
 using BEPUphysics.BroadPhaseEntries.MobileCollidables;
+using BEPUutilities;
 using BEPUutilities.DataStructures;
 using BEPUutilities.ResourceManagement;
-using BEPUutilities;
 
 namespace BEPUphysics.NarrowPhaseSystems.Pairs
 {

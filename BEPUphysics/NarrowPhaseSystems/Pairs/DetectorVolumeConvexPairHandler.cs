@@ -1,10 +1,10 @@
-﻿using BEPUphysics.BroadPhaseEntries;
+﻿using System;
+using BEPUphysics.BroadPhaseEntries;
 using BEPUphysics.BroadPhaseEntries.MobileCollidables;
-using System;
-using BEPUphysics.CollisionTests.CollisionAlgorithms;
-using BEPUutilities.DataStructures;
-using BEPUutilities;
 using BEPUphysics.CollisionShapes.ConvexShapes;
+using BEPUphysics.CollisionTests.CollisionAlgorithms;
+using BEPUutilities;
+using BEPUutilities.DataStructures;
 
 namespace BEPUphysics.NarrowPhaseSystems.Pairs
 {

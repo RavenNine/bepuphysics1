@@ -1,7 +1,7 @@
 ﻿using System;
+using System.Collections.ObjectModel;
 using System.Threading;
 using BEPUutilities.DataStructures;
-using System.Collections.ObjectModel;
 
 namespace BEPUphysics.DeactivationManagement
 {

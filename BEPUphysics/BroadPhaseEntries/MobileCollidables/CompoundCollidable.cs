@@ -1,12 +1,12 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using BEPUphysics.BroadPhaseEntries.Events;
 using BEPUphysics.BroadPhaseSystems;
+using BEPUphysics.CollisionRuleManagement;
 using BEPUphysics.CollisionShapes;
+using BEPUphysics.Materials;
 using BEPUutilities;
 using BEPUutilities.DataStructures;
-using BEPUphysics.Materials;
-using BEPUphysics.CollisionRuleManagement;
-using System;
 
 namespace BEPUphysics.BroadPhaseEntries.MobileCollidables
 {

@@ -1,11 +1,11 @@
 ﻿
+using System;
 using System.Collections.Generic;
 using BEPUphysics.BroadPhaseEntries.MobileCollidables;
 using BEPUphysics.CollisionShapes.ConvexShapes;
 using BEPUphysics.DataStructures;
-using BEPUutilities;
-using System;
 using BEPUphysics.Settings;
+using BEPUutilities;
 using BEPUutilities.DataStructures;
 using BEPUutilities.ResourceManagement;
 

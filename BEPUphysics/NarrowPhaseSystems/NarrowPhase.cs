@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using BEPUphysics.BroadPhaseEntries;
 using BEPUphysics.BroadPhaseSystems;
+using BEPUphysics.CollisionRuleManagement;
 using BEPUphysics.Constraints;
 using BEPUphysics.NarrowPhaseSystems.Pairs;
-using BEPUphysics.CollisionRuleManagement;
 using BEPUutilities.DataStructures;
 using BEPUutilities.Threading;
 

@@ -1,6 +1,5 @@
-﻿using BEPUutilities;
- 
-using BEPUphysics.DataStructures;
+﻿using BEPUphysics.DataStructures;
+using BEPUutilities;
 
 namespace BEPUphysics.CollisionShapes
 {

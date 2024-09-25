@@ -1,10 +1,10 @@
 ﻿using BEPUphysics.BroadPhaseEntries;
 using BEPUphysics.BroadPhaseEntries.MobileCollidables;
+using BEPUphysics.CollisionRuleManagement;
 using BEPUphysics.CollisionShapes.ConvexShapes;
 using BEPUphysics.Entities;
-using BEPUphysics.CollisionRuleManagement;
-using BEPUutilities;
 using BEPUphysics.Materials;
+using BEPUutilities;
 
 namespace BEPUphysics.Vehicle
 {

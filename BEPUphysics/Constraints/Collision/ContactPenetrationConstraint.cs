@@ -1,8 +1,8 @@
-﻿using BEPUphysics.Entities;
+﻿using System;
 using BEPUphysics.CollisionTests;
+using BEPUphysics.Entities;
 using BEPUphysics.Settings;
 using BEPUutilities;
-using System;
 using BEPUutilities.DataStructures;
 
 namespace BEPUphysics.Constraints.Collision

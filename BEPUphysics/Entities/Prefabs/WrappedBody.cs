@@ -1,9 +1,8 @@
 using System;
 using System.Collections.Generic;
 using BEPUphysics.BroadPhaseEntries.MobileCollidables;
-using BEPUphysics.EntityStateManagement;
- 
 using BEPUphysics.CollisionShapes.ConvexShapes;
+using BEPUphysics.EntityStateManagement;
 using BEPUutilities;
 using BEPUutilities.DataStructures;
 

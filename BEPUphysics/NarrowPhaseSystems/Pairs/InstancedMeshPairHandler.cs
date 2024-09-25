@@ -5,11 +5,10 @@ using BEPUphysics.CollisionTests.CollisionAlgorithms.GJK;
 using BEPUphysics.CollisionTests.Manifolds;
 using BEPUphysics.Constraints.Collision;
 using BEPUphysics.DataStructures;
-using BEPUutilities.DataStructures;
 using BEPUphysics.PositionUpdating;
 using BEPUphysics.Settings;
- 
 using BEPUutilities;
+using BEPUutilities.DataStructures;
 
 namespace BEPUphysics.NarrowPhaseSystems.Pairs
 {

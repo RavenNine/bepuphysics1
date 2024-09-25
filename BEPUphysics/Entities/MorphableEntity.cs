@@ -1,6 +1,6 @@
 ﻿using BEPUphysics.BroadPhaseEntries.MobileCollidables;
-using BEPUutilities;
 using BEPUphysics.CollisionShapes;
+using BEPUutilities;
 
 namespace BEPUphysics.Entities
 {

@@ -1,7 +1,6 @@
 ﻿using BEPUphysics.CollisionShapes.ConvexShapes;
-using BEPUutilities;
- 
 using BEPUphysics.Settings;
+using BEPUutilities;
 using RigidTransform = BEPUutilities.RigidTransform;
 
 namespace BEPUphysics.CollisionTests.CollisionAlgorithms.GJK

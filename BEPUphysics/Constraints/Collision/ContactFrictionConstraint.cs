@@ -1,9 +1,8 @@
 ﻿using System;
 using BEPUphysics.Entities;
- 
-using BEPUutilities.DataStructures;
 using BEPUphysics.Settings;
 using BEPUutilities;
+using BEPUutilities.DataStructures;
 
 namespace BEPUphysics.Constraints.Collision
 {

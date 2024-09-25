@@ -1,18 +1,17 @@
 ﻿using System;
 using BEPUphysics.BroadPhaseEntries;
-using BEPUphysics.BroadPhaseSystems;
 using BEPUphysics.BroadPhaseEntries.MobileCollidables;
+using BEPUphysics.BroadPhaseSystems;
+using BEPUphysics.CollisionRuleManagement;
+using BEPUphysics.CollisionShapes;
 using BEPUphysics.CollisionShapes.ConvexShapes;
 using BEPUphysics.DeactivationManagement;
 using BEPUphysics.EntityStateManagement;
+using BEPUphysics.Materials;
 using BEPUphysics.OtherSpaceStages;
 using BEPUphysics.PositionUpdating;
 using BEPUphysics.Settings;
-
 using BEPUutilities;
-using BEPUphysics.Materials;
-using BEPUphysics.CollisionShapes;
-using BEPUphysics.CollisionRuleManagement;
 using MathChecker = BEPUutilities.MathChecker;
 
 namespace BEPUphysics.Entities

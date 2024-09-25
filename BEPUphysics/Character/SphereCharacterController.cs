@@ -1,15 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.Threading;
 using BEPUphysics.BroadPhaseEntries;
 using BEPUphysics.BroadPhaseEntries.MobileCollidables;
 using BEPUphysics.Entities.Prefabs;
+using BEPUphysics.Materials;
+using BEPUphysics.NarrowPhaseSystems.Pairs;
+using BEPUphysics.PositionUpdating;
 using BEPUphysics.UpdateableSystems;
 using BEPUutilities;
-using BEPUphysics.NarrowPhaseSystems.Pairs;
-using BEPUphysics.Materials;
-using BEPUphysics.PositionUpdating;
-using System.Threading;
 
 namespace BEPUphysics.Character
 {

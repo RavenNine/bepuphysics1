@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using BEPUphysics.BroadPhaseSystems;
-using BEPUphysics.NarrowPhaseSystems.Pairs;
 using BEPUphysics.CollisionTests;
+using BEPUphysics.NarrowPhaseSystems.Pairs;
 
 namespace BEPUphysics.BroadPhaseEntries.Events
 {

@@ -1,10 +1,10 @@
-﻿using BEPUphysics.PositionUpdating;
-using System;
-using BEPUutilities;
-using BEPUphysics.NarrowPhaseSystems.Pairs;
-using BEPUphysics.Entities;
-using BEPUphysics.CollisionRuleManagement;
+﻿using System;
 using BEPUphysics.BroadPhaseEntries;
+using BEPUphysics.CollisionRuleManagement;
+using BEPUphysics.Entities;
+using BEPUphysics.NarrowPhaseSystems.Pairs;
+using BEPUphysics.PositionUpdating;
+using BEPUutilities;
 
 namespace BEPUphysics.Settings
 {

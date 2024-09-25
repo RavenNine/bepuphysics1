@@ -1,15 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using BEPUphysics.CollisionRuleManagement;
+using BEPUphysics.CollisionShapes.ConvexShapes;
 using BEPUphysics.CollisionTests.CollisionAlgorithms;
 using BEPUphysics.DataStructures;
-using BEPUutilities.DataStructures;
 using BEPUphysics.Entities;
+using BEPUphysics.NarrowPhaseSystems.Pairs;
 using BEPUphysics.OtherSpaceStages;
 using BEPUutilities;
+using BEPUutilities.DataStructures;
 using BEPUutilities.ResourceManagement;
-using BEPUphysics.CollisionShapes.ConvexShapes;
-using BEPUphysics.CollisionRuleManagement;
-using BEPUphysics.NarrowPhaseSystems.Pairs;
 
 namespace BEPUphysics.BroadPhaseEntries
 {
