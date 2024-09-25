@@ -1,7 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <Platforms>AnyCPU;x64;x86</Platforms>
     <PackageLicenseUrl>https://github.com/bepu/bepuphysics1/blob/master/LICENSE.md</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/bepu/bepuphysics1</PackageProjectUrl>
@@ -13,5 +12,4 @@
     <Company>Bepu Entertainment LLC</Company>
     <Copyright>© Bepu Entertainment LLC</Copyright>
   </PropertyGroup>
-
 </Project>
